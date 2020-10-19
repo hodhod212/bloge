@@ -1,4 +1,0 @@
-##
-get http://localhost:4001/posts/123/comments
-Content-Type:application/json
-
